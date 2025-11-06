@@ -1,0 +1,40 @@
+id,name,category,province,city,lat,lon,rating,review_count
+1,Candi Borobudur,Cultural,Jawa Tengah,Magelang,-7.6079,110.2038,3.61,75563
+2,Candi Prambanan,Cultural,DI Yogyakarta,Sleman,-7.752,110.491,4.59,51706
+3,Jalan Malioboro,City,DI Yogyakarta,Yogyakarta,-7.793,110.367,4.11,99385
+4,Monumen Nasional (Monas),City,DKI Jakarta,Jakarta Pusat,-6.1754,106.8272,4.51,105079
+5,Kota Tua Jakarta,Cultural,DKI Jakarta,Jakarta Barat,-6.1352,106.8142,4.87,51929
+6,Taman Mini Indonesia Indah,Park,DKI Jakarta,Jakarta Timur,-6.302,106.895,4.25,87409
+7,Ragunan Zoo,Park,DKI Jakarta,Jakarta Selatan,-6.3046,106.8205,4.2,21111
+8,Ancol Dreamland,Beach,DKI Jakarta,Jakarta Utara,-6.1238,106.8436,3.6,87209
+9,Pantai Kuta,Beach,Bali,Badung,-8.718,115.168,3.88,15409
+10,Pura Tanah Lot,Cultural,Bali,Tabanan,-8.621,115.086,4.2,73370
+11,Labuan Bajo,Island,NTT,Manggarai Barat,-8.496,119.887,4.45,99241
+12,Gili Trawangan,Island,NTB,Lombok Utara,-8.352,116.038,4.63,106679
+13,Kawah Putih,Mountain,Jawa Barat,Bandung,-7.1661,107.399,4.03,109841
+14,Gunung Tangkuban Parahu,Mountain,Jawa Barat,Bandung,-6.759,107.609,3.59,73551
+15,Gunung Bromo,Mountain,Jawa Timur,Probolinggo,-7.9425,112.953,3.9,88955
+16,Kawah Ijen,Mountain,Jawa Timur,Banyuwangi,-8.058,114.242,4.77,92127
+17,Raja Ampat,Island,Papua Barat,Raja Ampat,-0.2346,130.5079,3.8,5235
+18,Taman Nasional Wakatobi,Island,Sulawesi Tenggara,Wakatobi,-5.319,123.54,4.13,55399
+19,Taman Nasional Bunaken,Island,Sulawesi Utara,Manado,1.625,124.79,4.8,67125
+20,Danau Toba,Lake,Sumatera Utara,Toba,2.684,98.875,3.53,46360
+21,Pulau Derawan,Island,Kalimantan Timur,Berau,2.2833,118.25,4.34,79081
+22,Karimunjawa,Island,Jawa Tengah,Jepara,-5.867,110.436,4.83,4168
+23,Pantai Tanjung Tinggi,Beach,Bangka Belitung,Belitung,-2.55,107.638,3.82,111144
+24,Way Kambas,Park,Lampung,Lampung Timur,-4.938,105.63,4.27,47275
+25,Jatigede Reservoir,Lake,Jawa Barat,Sumedang,-6.915,108.131,4.77,87821
+26,Alun-Alun Sumedang,City,Jawa Barat,Sumedang,-6.858,107.923,3.69,77529
+27,Pangjugjugan,Park,Jawa Barat,Sumedang,-6.841,107.956,4.23,47457
+28,Situ Biru Cilembang,Lake,Jawa Barat,Sumedang,-6.9155,108.046,4.55,73925
+29,Kampung Karuhun,Park,Jawa Barat,Sumedang,-6.863,107.973,4.44,99238
+30,TOGA Hill,Mountain,Jawa Barat,Sumedang,-6.835,107.944,4.15,105122
+31,Jans Park (Ciwidey),Park,Jawa Barat,Bandung,-7.0826,107.6047,3.79,33267
+32,Kota Batu Jatim Park 2,Park,Jawa Timur,Batu,-7.8831,112.5338,4.19,76033
+33,Taman Nasional Baluran,Park,Jawa Timur,Situbondo,-7.8549,114.3875,4.02,57215
+34,Dieng Plateau,Mountain,Jawa Tengah,Banjarnegara,-7.209,109.905,4.17,119327
+35,Pantai Parangtritis,Beach,DI Yogyakarta,Bantul,-8.0246,110.328,4.01,99298
+36,Danau Sentani,Lake,Papua,Jayapura,-2.607,140.514,4.67,103172
+37,Taman Nasional Komodo,Island,NTT,Manggarai Barat,-8.6,119.45,4.58,45860
+38,Pantai Losari,Beach,Sulawesi Selatan,Makassar,-5.15,119.412,3.94,103186
+39,Lawang Sewu,Cultural,Jawa Tengah,Semarang,-6.9841,110.4108,4.3,53674
